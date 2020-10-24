@@ -3,7 +3,7 @@
     "path": "C:/Users/tomvc/Desktop/SURA/appR2/run.R",
     "project_path": "run.R",
     "type": "r_source",
-    "hash": "3381339494",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1603568359601.0,
@@ -15,11 +15,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1603568369,
+    "lastKnownWriteTime": 1603569152,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603568369291,
+    "last_content_update": 1603569152706,
     "read_only": false,
     "read_only_alternatives": []
 }
