@@ -1,6 +1,6 @@
-library(shiny)
-library(shinydashboard)
-library(plotly)
+library("shiny")
+library("shinydashboard")
+library("plotly")
 source('funciones.R')
 
 header <- dashboardHeader(

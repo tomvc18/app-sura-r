@@ -3,7 +3,7 @@
     "path": "C:/Users/tomvc/Desktop/SURA/appR2/ui.R",
     "project_path": "ui.R",
     "type": "r_source",
-    "hash": "2059509693",
+    "hash": "3474473085",
     "contents": "",
     "dirty": false,
     "created": 1603568160706.0,
@@ -11,15 +11,15 @@
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "15,0",
-        "scrollLine": "3"
+        "cursorPosition": "2,16",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1603569143,
+    "lastKnownWriteTime": 1603569314,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603569143664,
+    "last_content_update": 1603569314951,
     "read_only": false,
     "read_only_alternatives": []
 }
